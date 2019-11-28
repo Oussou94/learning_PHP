@@ -12,7 +12,7 @@
 	}
 	echo "Avez vous l'autorisation d'entrer?<br/> la reponse est : $autorisation_entrer";*/
 
-	$langue = "anglais";
+	$langue = "francais";
 	if ($age <= 12 and $langue == "francais") {
 		echo "Bienvenue sur mon site !";
 	}
